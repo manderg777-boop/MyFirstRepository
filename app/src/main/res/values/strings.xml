@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="button_click_me">Click Me!</string>
+    <string name="button_reset">Reset</string>
+    <string name="click_count">Click count: %d</string>
+    <string name="click_count_default">Click count: 0</string>
+</resources>
